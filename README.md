@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img alt="virtualbox" src ="https://img.shields.io/badge/virtualbox-183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"/> 
     <img alt="postman" src ="https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
     <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> 
-    <img alt="" src ="https://img.shields.io/badge/.svg?&style=for-the-badge&logo=&logoColor=white"/> 
+    <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
     
 </div>
     
