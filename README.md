@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img alt="c++" src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
     <img alt="vuedotjs" src ="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-    <img alt="jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+    
 
 </div>
 
@@ -48,12 +48,23 @@ Here are some ideas to get you started:
     <img alt="amazon" src ="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
     <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
     <img alt="redis" src ="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
-    <img alt="" src ="https://img.shields.io/badge/.svg?&style=for-the-badge&logo=&logoColor=white"/> 
-    <img alt="" src ="https://img.shields.io/badge/.svg?&style=for-the-badge&logo=&logoColor=white"/> 
+    
+
     
 </div>
 
 ### Tool
+<div>
+    <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="intellijidea" src ="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img alt="sts" src ="https://img.shields.io/badge/sts-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+    <img alt="virtualbox" src ="https://img.shields.io/badge/virtualbox-183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"/> 
+    <img alt="postman" src ="https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
+    <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> 
+    <img alt="" src ="https://img.shields.io/badge/.svg?&style=for-the-badge&logo=&logoColor=white"/> 
+    
+</div>
     
 
 
