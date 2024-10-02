@@ -46,7 +46,8 @@ I'm a passionate and driven **Infrastructure Engineer** and **Backend Developer*
     <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/> 
     <img alt="amazon" src ="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
     <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-    <img alt="redis" src ="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
+    <img alt="redis" src ="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> 
     
 
     
