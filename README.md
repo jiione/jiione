@@ -53,7 +53,9 @@ Here you'll find the projects I've been working on, showcasing my experience and
     <img alt="amazon" src ="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
     <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
     <img alt="redis" src ="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-    <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> 
+    <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img alt="prometheus" src ="https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/> 
+    <img alt="grafana" src ="https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/> 
     
 
     
